@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+lxml==4.9.3
+Pillow==10.1.0
+pillow-heif==0.9.2
